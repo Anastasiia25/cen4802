@@ -3,4 +3,4 @@ CEN4802 class
 08/31/2025 - start 
 
 Anastasiia Mikhailova
-
+Seminole State College of Florida
