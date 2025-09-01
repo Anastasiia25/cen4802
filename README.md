@@ -4,3 +4,6 @@ CEN4802 class
 
 Anastasiia Mikhailova
 Seminole State College of Florida
+
+
+The branch is created on an issue request. Needs to add comments to the Fibonacci method.
