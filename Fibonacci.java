@@ -19,8 +19,8 @@ public class Fibonacci {
 
 	/**
 	* Recursively computes the nth term of the Fibonacci sequence.
-	* @param n Index of the sequence term to compute.
 	* @return nth term of the Fibonacci sequence.
+ 	* @param n Index of the sequence term to compute.
 	*/
 		
     public static int fibonacci(int n) {
@@ -47,7 +47,8 @@ public class Fibonacci {
         // Call the recursive method
         int nextInt = fibonacci(n);
         
-        // Print result
+        // Print result after the method is called
         System.out.println("\nThe " + n + "th term of the Fibonacci sequence is  " + nextInt);
     }
+
 }
